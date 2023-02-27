@@ -1,0 +1,29 @@
+<html> </html>
+<head> </head>
+<body> </body>
+  <h1> 
+<label>nome: </label>
+<input type="text" >
+<label>Cor favorita </label>
+<input type="text" >
+  </h1>
+</p>
+            <center>
+            </center>
+</p>
+ <b>negrito </b>
+            <strong>negrito </strong>
+            <i> italico </i>
+            <em>italico </em>
+            <u> sublinhar </u>
+            <ins> sublinhar </ins>
+            <del> riscado </del>
+            <s> riscado </s>
+            <mark> marcador </mark>
+        </p>
+        <input type="image" src="lazy-loading-nativo-imagens-iframes_.jpg">
+        <audio controls>
+           <sourse src="audio.mp3" >
+        </audio>
+        <video width="200px" heigh="200px" controls>
+            <source src="https://youtu.be/BFO3GA4QHSc">
